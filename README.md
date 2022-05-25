@@ -1,5 +1,5 @@
 # Nwafu-Bot
-基于Nonebot2 + go-cqhttp 的机器人，初步用于校务相关
+基于Nonebot2 + go-cqhttp 的机器人，初步用于校务相关 将移植于群内bot小莲
 
 ## TODO
 - [ ] 机器人
